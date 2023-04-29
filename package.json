@@ -1,0 +1,15 @@
+{
+  "name": "@eyarham/react-mapbox-gl-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "@eyarham/react-mapbox-gl-js"
+  },
+  "author": "",
+  "license": "ISC"
+}
