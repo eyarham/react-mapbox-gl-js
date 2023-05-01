@@ -6,7 +6,8 @@
   "scripts": {
     "build": "npm run build:commonjs && npm run build:esm",
     "build:commonjs": "tsc -p jsconfig.json",
-    "build:esm": "tsc -p jsconfig-esm.json"
+    "build:esm": "tsc -p jsconfig-esm.json",
+    "test": "exit 0"
   },
   "repository": {
     "type": "git",
